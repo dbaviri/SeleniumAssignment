@@ -1,0 +1,20 @@
+package week1.day1.Assignments;
+
+public class Car {
+	
+	public void driveCar()
+	
+	{
+				System.out.println("driving a car");
+				
+	}
+	
+	public static void main(String args[])
+	{
+		
+		Car myCar = new Car();
+		myCar.driveCar();
+		
+	}
+	
+}
