@@ -1,0 +1,26 @@
+package org.college;
+
+import org.department.Department;
+
+public class college {
+	
+	 public void collegeName() {
+		 
+		 System.out.println("The college name is" + " Anna University Chennai");
+	 }
+	 
+ public void collegeCode() {
+		 
+	 System.out.println("The college code is" + " NITCHN ");
+	 }
+ 
+ 
+ 
+ public void collegeRank() {
+	 
+	 System.out.println("The college rank is" + " NIT001");
+ }
+
+	
+	
+}
